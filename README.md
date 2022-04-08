@@ -6,4 +6,4 @@ and the computer will speak.
 Practicing:
  javascript events and using SpeechSynthesisUtterance API.
  
-https://xein-dev.github.io/YourComputerSpeak/
+https://Suarez-dev.github.io/YourComputerSpeak/
